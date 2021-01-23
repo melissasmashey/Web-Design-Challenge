@@ -1,0 +1,61 @@
+
+
+
+    body{
+    background-color: lightgrey;   
+    }
+    .col-md-6 header{
+        background-color: white;
+    }
+    .col-md-6 navbar_header{
+        background-color: white;
+    }
+    a.navbar-brand{
+        margin-left: -3px;
+        padding: 8px;
+        background-color: lightseagreen;
+        font-size: 20px;
+    }    
+    .collapse{
+        position:absolute;
+        right:100px;
+        top:5px;
+    }
+    h3 {
+        color:lightseagreen}
+
+    .col-md-6{
+            background-color: white;
+            
+    }
+    .col-md-5{
+        background-color: white;
+        }
+    h2 {
+        color:lightseagreen;
+        font-size:25px}
+
+    .col-md-6_temp{
+        background-color: white;
+        }
+     h4 {
+        color:black;
+        font-size:10px
+        }
+        .col-md-8{
+            background-color: white}
+        h5 {
+                color:lightseagreen;
+                font-size:20px;
+                text-align:center
+            }      
+            .col-md-12{
+                background-color: white}    
+            .collapse{
+                background-color: white    
+            }    
+
+            @media only screen and (max-width: 640px) {
+                .container{
+                  background-color: lightseagreen}}
+             
