@@ -59,8 +59,7 @@
                 .navbar.bg-light{
                     background-color: lightseagreen!important;    
                 }
-            @media screen and (max-width: 780px) {
-                    .col-md-8 {
-                        display: block;
-                    }
+            @media screen and (max-width: 540px) {
+                    .col-md-8 
+                        display: block;}
            
